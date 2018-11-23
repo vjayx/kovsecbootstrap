@@ -42,3 +42,25 @@ img.sexyBunny {
     margin-bottom: 20px;
     width: 80%;
 }
+
+.footerImg {
+    padding-top: 15px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+.fa-google {
+    color: #c32f10;
+}
+.fa-instagram {
+    color:#ffffff;
+}
+
+
+.fab {
+    margin: 10px; }
+
+.socialWrapper {
+  margin: auto;
+}
