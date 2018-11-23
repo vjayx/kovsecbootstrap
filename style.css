@@ -21,3 +21,13 @@ button.coolStuffBtn {
     display: block;
     margin: auto;
 }
+h5.modal-title {
+    margin: auto;
+}
+img.sexyBunny {
+    display: block;
+    margin: auto;
+}
+.ModalFormWrapper {
+    padding: 2rem;
+}
